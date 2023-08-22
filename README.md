@@ -1,7 +1,7 @@
 # pgweb-acara1
 Perencanaan produk web GIS dan Git
 
-Nama: Muhammad Anshori 
+Nama: Anshori 
 
 NIM: 12345
 
